@@ -1,6 +1,5 @@
 [
   {
-    "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Halls of Sovngarde",
     "description": "Halls of Sovngarde is a requiem based list which seeks to fully overhaul most elements of Skyrim entirely. With respects to Vanilla Skyrim, many of the old and beloved features of the game we all enjoy have been kept the same. On the other hand, areas which require updating and modernization have been put under the microscope, each minute detail modified to ensure the most modern and cohesive experience possible. This is not a vanilla list, nor is it a list which seeks to completely remove the original feel Skyrim gave us 12 years ago. This list will pay homage to the things we all grew to love while improving the look and overall feel.",
     "author": "Camboi BYC",
@@ -8,6 +7,7 @@
       "github/CamIce2002"
     ],
     "game": "skyrimspecialedition",
+    "official": false,
     "tags": [
       "Testing",
       "Survival",
@@ -16,25 +16,28 @@
       "Nevernude"
     ],
     "nsfw": false,
+    "utility_list": false,
     "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/camice2002/HallsofSovngarde/main/HOS%20(1).png",
       "readme": "https://www.modlists.net/06HOS/2-Install/",
-      "download": "https://authored-files.wabbajack.org/Halgaris Helper.wabbajack_29d245c9-5f7f-4394-b600-a22e43427337",
+      "download": "https://authored-files.wabbajack.org/Halls of Sovngarde.wabbajack_601ca803-4c6c-44ee-93ae-c8f3eac07b2c",
       "machineURL": "HoS",
       "discordURL": "https://discord.gg/43EhRjU"
     },
     "download_metadata": {
-      "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "3sQoXlSMy2Q=",
-      "Size": 45564190,
+      "Hash": "osgKnz/GD3I=",
+      "Size": 45564201,
       "NumberOfArchives": 1581,
       "SizeOfArchives": 89950794714,
       "NumberOfInstalledFiles": 154691,
-      "SizeOfInstalledFiles": 130395567609
+      "SizeOfInstalledFiles": 130395567678
     },
-    "version": "0.9"
+    "version": "0.9",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2023-11-25T19:53:32.2267973Z",
+    "repositoryName": ""
   }
 ]
