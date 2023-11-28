@@ -1,4 +1,36 @@
-# HallsofSovngarde  
+# Releases (Newest to Oldest)  
 
-0.9  
+# Release 0.9.1  
+Save Safe?: YES (Although using a save from an interior is advised)   
+  
+**Added**  
+  
+* [Vanargand Animations II - Unarmed Non Combat Locomotion](https://www.nexusmods.com/skyrimspecialedition/mods/105376)
+* [SMIM Minewood HD Texture Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/82013)
+* [Smart Training - Tweaked SE](https://www.nexusmods.com/skyrimspecialedition/mods/18048)
+* [Forget Spell](https://www.nexusmods.com/skyrimspecialedition/mods/51125)
+* [Skyrim Outfit System SE Revised](https://www.nexusmods.com/skyrimspecialedition/mods/42162)
+* [Scared of Shootings - NPCs react to aiming bows](https://www.nexusmods.com/skyrimspecialedition/mods/105622)
+* [Simple Fishing Overhaul - Animations and Improved Quest Dialogue](https://www.nexusmods.com/skyrimspecialedition/mods/103440)
+* [Tiny Patch for FK Diverse Racial Skeletons](https://www.nexusmods.com/skyrimspecialedition/mods/103440)
+* [Simple Fishing Overhaul - FLM Addon](https://www.nexusmods.com/skyrimspecialedition/mods/104569) 
+* [Practical Female Daedric Armor](https://www.nexusmods.com/skyrimspecialedition/mods/105526)
+* [NAT.ENB III - Natural and Atmospheric Tamriel ENB 3.1.1C](https://www.nexusmods.com/skyrimspecialedition/mods/27141)  
+* [DWTBD - NAT 3.0 Weathers Patch](https://www.nexusmods.com/skyrimspecialedition/mods/62546)
+* [NAT.ENB III - Audio Overhaul - Sounds of Skyrim Patch](https://www.nexusmods.com/skyrimspecialedition/mods/58449)
+* [ENB Helper SE](https://www.nexusmods.com/skyrimspecialedition/mods/23174)
+* [Rudy ENB SE for NAT 3](https://www.nexusmods.com/skyrimspecialedition/mods/91675)  
+* [Rudy ENB NAT ADDONS and REQUiRED Files](https://www.nexusmods.com/skyrimspecialedition/mods/91675)
+* [Bjorn ENB-Reshade]()
+* [NAT Weather Patch]()
+* [Cabbage ENB for NAT 3]()
+* [Water for ENB - Patch - Cabbage ENB]()
+    
+**Removed**
+* [NAT 2018]()
+  
+**Updated** 
+
+# Release 0.9   
+  
 -initial release  
