@@ -5,7 +5,6 @@ Save Safe?: YES (Although using a save from an interior is advised)
   
 **Added**  
   
-* [Vanargand Animations II - Unarmed Non Combat Locomotion](https://www.nexusmods.com/skyrimspecialedition/mods/105376)
 * [SMIM Minewood HD Texture Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/82013)
 * [Smart Training - Tweaked SE](https://www.nexusmods.com/skyrimspecialedition/mods/18048)
 * [Forget Spell](https://www.nexusmods.com/skyrimspecialedition/mods/51125)
@@ -21,13 +20,13 @@ Save Safe?: YES (Although using a save from an interior is advised)
 * [ENB Helper SE](https://www.nexusmods.com/skyrimspecialedition/mods/23174)
 * [Rudy ENB SE for NAT 3](https://www.nexusmods.com/skyrimspecialedition/mods/91675)  
 * [Rudy ENB NAT ADDONS and REQUiRED Files](https://www.nexusmods.com/skyrimspecialedition/mods/91675)
-* [Bjorn ENB-Reshade]()
-* [NAT Weather Patch]()
-* [Cabbage ENB for NAT 3]()
-* [Water for ENB - Patch - Cabbage ENB]()
+* [Bjorn ENB-Reshade](https://www.nexusmods.com/skyrimspecialedition/mods/64714)
+* [NAT Weather Patch](https://www.nexusmods.com/skyrimspecialedition/mods/64714)
+* [Cabbage ENB for NAT 3](https://www.nexusmods.com/skyrimspecialedition/mods/103042)
+* [Water for ENB - Patch - Cabbage ENB](https://www.nexusmods.com/skyrimspecialedition/mods/37061)
     
 **Removed**
-* [NAT 2018]()
+* [NAT 2018](https://www.nexusmods.com/skyrimspecialedition/mods/12842)
   
 **Updated** 
 
