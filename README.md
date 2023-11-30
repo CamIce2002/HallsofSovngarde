@@ -32,6 +32,24 @@ Save Safe?: NO
   > 1.16alpha to 1.17
 * Crash Logger SSE AE VR - PDB support
   > 1.10 to 1.11.1
+* Community Shaders
+  > 0.7 to 0.7.3
+* Improved Closefaced Helmets - Fixes
+  > 1.2 to 1.3
+* AI Overhaul SSE
+  > 1.8.3 to 1.8.4
+* Civil War Lines Expansion
+  > 1.07 to 1.08
+* The Coachmen
+  > 1.0 to 2.0
+* Carriage Guards
+  > 1.0 to 2.0
+* Inconsequential NPCs - No Carriage Guards
+  > 1.0 to 2.0
+* Dremora Lines Expansion
+  > 1.0 to 1.1
+* Backpack Repositioner
+  > 1.1 to 1.5.1
 
 # Release 0.9.1  
 Save Safe?: YES (Although using a save from an interior is advised)   
