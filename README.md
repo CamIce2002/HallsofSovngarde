@@ -10,7 +10,9 @@ Save Safe?: NO
 * [Bosmer NPCs have Antlers - Texture Patch](https://www.nexusmods.com/skyrimspecialedition/mods/62642)
 * [Discord Rich Presence](https://www.nexusmods.com/skyrimspecialedition/mods/84847)
     
-**Removed**
+**Removed**  
+
+* [dTry's Key Utils](https://www.nexusmods.com/skyrimspecialedition/mods/69944)
     
 **Updated**  
 
