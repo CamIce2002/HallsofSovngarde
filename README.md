@@ -10,6 +10,14 @@ Save Safe?: NO
 * [Bosmer NPCs have Antlers - Texture Patch](https://www.nexusmods.com/skyrimspecialedition/mods/62642)
 * [Discord Rich Presence](https://www.nexusmods.com/skyrimspecialedition/mods/84847)
 * [Ledge Animation Update](https://www.nexusmods.com/skyrimspecialedition/mods/63232)
+* [Fluffy Hanging and Floor Pelts](https://www.nexusmods.com/skyrimspecialedition/mods/103120)
+* [More realistic fur and antlers for wall Mounted Male Elks](https://www.nexusmods.com/skyrimspecialedition/mods/103203)
+* [Catch of the Day - Fish Hang in Inns too - Base Object Swapper](https://www.nexusmods.com/skyrimspecialedition/mods/103473)
+* [slightly Better Large Antlers](https://www.nexusmods.com/skyrimspecialedition/mods/103590)
+* [slightly Better Honey in a Jar](https://www.nexusmods.com/skyrimspecialedition/mods/104496)
+* [More realistic fur and antlers for Hagraven Clutter (DTA supported)](https://www.nexusmods.com/skyrimspecialedition/mods/104704)
+* [Diverse Farm Fences - Base Object Swapper](https://www.nexusmods.com/skyrimspecialedition/mods/104990)
+* [Windmills have Windows](https://www.nexusmods.com/skyrimspecialedition/mods/105465)
     
 **Removed**  
 
