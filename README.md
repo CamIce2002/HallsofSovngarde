@@ -9,6 +9,7 @@ Save Safe?: NO
 * [Cuyi's Bosmeri Antlers - SSE](https://www.nexusmods.com/skyrimspecialedition/mods/26173)
 * [Bosmer NPCs have Antlers - Texture Patch](https://www.nexusmods.com/skyrimspecialedition/mods/62642)
 * [Discord Rich Presence](https://www.nexusmods.com/skyrimspecialedition/mods/84847)
+* [Ledge Animation Update](https://www.nexusmods.com/skyrimspecialedition/mods/63232)
     
 **Removed**  
 
@@ -50,6 +51,34 @@ Save Safe?: NO
   > 1.0 to 1.1
 * Backpack Repositioner
   > 1.1 to 1.5.1
+* Skyrim Unbound Reborn
+  > 2.1.5 to 2.1.6
+* Improved Camera SE
+  > 1.0.3 to 1.0.5
+* Dirt and Blood - Dynamic Visual Effects
+  > 2.30 to 2.31
+* Time Flies SE
+  > 7.2.2 to 7.3.7
+* Take a Peek - New Stealth Mechanic
+  > 1.21 to 1.22
+* Immersive Interactions - Animated Actions
+  > 1.72 to 1.74
+* NPC Animation Remix (OAR)
+   > 1.6 to 1.6.2
+* Animated Poisons
+  > 3.2.1 to 5.1.1
+* Animated Potions
+  > 4.3 to 5.0
+* Animated Ingredients
+  > 3.1.1 to 5.0.2
+* Hunterborn Animations
+  > 2.0 to 2.1
+* Igniting Animation for Campfire
+  > 1.01 to 1.03
+* Weapon Styles - Draw-Sheathe animations for IED
+  > 1.1 to 2.1
+* Weapon switch animation Fix
+  > 1.2 to 1.4
 
 # Release 0.9.1  
 Save Safe?: YES (Although using a save from an interior is advised)   
