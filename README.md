@@ -27,6 +27,7 @@ Save Safe?: NO
 * [Lux Patch - Parallax](https://www.nexusmods.com/skyrimspecialedition/mods/100397)
 * [TGC Winterhold V4 patch update](https://www.nexusmods.com/skyrimspecialedition/mods/56095)
 * [The Great Cities- Resources](https://www.nexusmods.com/skyrimspecialedition/mods/104373)
+* [Shaders of Solstheim - Ash and Moss - Parallax Meshes](https://www.nexusmods.com/skyrimspecialedition/mods/60144)
     
 **Removed**  
 
