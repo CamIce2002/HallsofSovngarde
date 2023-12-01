@@ -26,6 +26,7 @@ Save Safe?: NO
 * [Lux Orbis Patch - Parallax](https://www.nexusmods.com/skyrimspecialedition/mods/100397)
 * [Lux Patch - Parallax](https://www.nexusmods.com/skyrimspecialedition/mods/100397)
 * [TGC Winterhold V4 patch update](https://www.nexusmods.com/skyrimspecialedition/mods/56095)
+* [The Great Cities- Resources](https://www.nexusmods.com/skyrimspecialedition/mods/104373)
     
 **Removed**  
 
@@ -39,6 +40,7 @@ Save Safe?: NO
 * [Simply Knock - Icon](https://www.nexusmods.com/skyrimspecialedition/mods/52743)
 * [Interaction Icons - DAK](https://www.nexusmods.com/skyrimspecialedition/mods/52743)
 * [Awesome Potion Simplified mesh patch](https://www.nexusmods.com/skyrimspecialedition/mods/72849)
+* [The Great Cities - Resources](https://www.nexusmods.com/skyrimspecialedition/mods/20272)
     
 **Updated**  
 
