@@ -30,7 +30,6 @@ Save Safe?: NO
 * [Shaders of Solstheim - Ash and Moss - Parallax Meshes](https://www.nexusmods.com/skyrimspecialedition/mods/60144)
 * [Unique Armors and Weapons Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/105771)
 * [FYX - Palace of The Kings](https://www.nexusmods.com/skyrimspecialedition/mods/105843)
-* [Immersive Better Bow Positioning - IED-OAR](https://www.nexusmods.com/skyrimspecialedition/mods/99966)
     
 **Removed**  
 
