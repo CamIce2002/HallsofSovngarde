@@ -30,6 +30,11 @@ Save Safe?: NO
 * [Shaders of Solstheim - Ash and Moss - Parallax Meshes](https://www.nexusmods.com/skyrimspecialedition/mods/60144)
 * [Unique Armors and Weapons Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/105771)
 * [FYX - Palace of The Kings](https://www.nexusmods.com/skyrimspecialedition/mods/105843)
+* [Description Framework](https://www.nexusmods.com/skyrimspecialedition/mods/105799)
+* [Vanilla Item Descriptions](https://www.nexusmods.com/skyrimspecialedition/mods/105970)
+* [Hunterborn Descriptions](https://www.nexusmods.com/skyrimspecialedition/mods/106044)
+* [GATE TO SOVNGARDE (GTS) - Small Mods and Resources](https://www.nexusmods.com/skyrimspecialedition/mods/97490)
+* [Legible Item Descriptions of Skyrim - Specialversary Edition](https://www.nexusmods.com/skyrimspecialedition/mods/105915)
     
 **Removed**  
 
@@ -51,7 +56,7 @@ Save Safe?: NO
 * powerofthree's Tweaks
   > 1.8 to 1.8.1
 * Spell Perk Item Distributor (SPID)
-  > 6.6.1 to 6.7.2
+  > 6.6.1 to 6.7.4
 * ConsolePlusPlus
   > 1.2 to 1.4
 * dTry Plugin Updates
@@ -90,10 +95,18 @@ Save Safe?: NO
   > 2.30 to 2.32
 * Skyrim's Got Talent - Improve As a Bard
   > 1.63 to 1.64
+* Skyrim's Got Talent - Player Reactions Addon
+  > 1.03 to 1.04
 * Time Flies SE
   > 7.2.2 to 7.3.7
+* Indecent Exposure - Immersive Naked Reactions
+  > 0.5 to 0.5.1
 * Take a Peek - New Stealth Mechanic
   > 1.21 to 1.22
+* Sweeping Organizes Stuff - Use Broom to Clean Mess
+  > 0.4 to 0.5.2
+* Simple Fishing Overhaul - FLM Addon
+  > 1.1 to 1.2
 * Immersive Interactions - Animated Actions
   > 1.72 to 1.74
 * NPC Animation Remix (OAR)
@@ -189,7 +202,7 @@ Save Safe?: NO
 * True Directional Movement - Modernized Third Person Gameplay
   > 2.2.3 to 2.2.5
 * Serana Dialogue Add-On Patch Hub
-  > 2.5 to 2.7
+  > 2.5 to 2.8
 * The Great Town of Ivarstead Patch Collection
   > 2.10.1 to 2.10.2
 * Cities of the North - Morthal Patch Collection
