@@ -50,6 +50,7 @@ Save Safe?: NO
 * [Awesome Potion Simplified mesh patch](https://www.nexusmods.com/skyrimspecialedition/mods/72849)
 * [The Great Cities - Resources](https://www.nexusmods.com/skyrimspecialedition/mods/20272)
 * [Iconic's Ashman Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/88360)
+* [Apachii Sky Hair SSE](https://www.nexusmods.com/skyrimspecialedition/mods/2014)
     
 **Updated**  
 
