@@ -32,7 +32,6 @@ Save Safe?: NO
 * [FYX - Palace of The Kings](https://www.nexusmods.com/skyrimspecialedition/mods/105843)
 * [Description Framework](https://www.nexusmods.com/skyrimspecialedition/mods/105799)
 * [Vanilla Item Descriptions](https://www.nexusmods.com/skyrimspecialedition/mods/105970)
-* [Hunterborn Descriptions](https://www.nexusmods.com/skyrimspecialedition/mods/106044)
 * [GATE TO SOVNGARDE (GTS) - Small Mods and Resources](https://www.nexusmods.com/skyrimspecialedition/mods/97490)
 * [Legible Item Descriptions of Skyrim - Specialversary Edition](https://www.nexusmods.com/skyrimspecialedition/mods/105915)
     
