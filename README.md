@@ -33,7 +33,6 @@ Save Safe?: NO
 * [Description Framework](https://www.nexusmods.com/skyrimspecialedition/mods/105799)
 * [Vanilla Item Descriptions](https://www.nexusmods.com/skyrimspecialedition/mods/105970)
 * [GATE TO SOVNGARDE (GTS) - Small Mods and Resources](https://www.nexusmods.com/skyrimspecialedition/mods/97490)
-* [Legible Item Descriptions of Skyrim - Specialversary Edition](https://www.nexusmods.com/skyrimspecialedition/mods/105915)
     
 **Removed**  
 
