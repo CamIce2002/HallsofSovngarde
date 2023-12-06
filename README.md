@@ -116,8 +116,6 @@ Save Safe?: NO
   > 4.3 to 5.0
 * Animated Ingredients
   > 3.1.1 to 5.0.2
-* Hunterborn Animations
-  > 2.0 to 2.1
 * Igniting Animation for Campfire
   > 1.01 to 1.03
 * Weapon Styles - Draw-Sheathe animations for IED
