@@ -49,6 +49,17 @@ Save Safe?: NO
 * [The Great Cities - Resources](https://www.nexusmods.com/skyrimspecialedition/mods/20272)
 * [Iconic's Ashman Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/88360)
 * [Apachii Sky Hair SSE](https://www.nexusmods.com/skyrimspecialedition/mods/2014)
+* [Immersive HUD - iHUD Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/12440)
+* [Hunting in Skyrim - A Hunting Guild SE](https://www.nexusmods.com/skyrimspecialedition/mods/10353)
+* [Hunterborn SE](https://www.nexusmods.com/skyrimspecialedition/mods/7900)
+* [Hunterborn SE MCM](https://www.nexusmods.com/skyrimspecialedition/mods/17993)
+* [Trading and NPC reactions for Hunterborn](https://www.nexusmods.com/skyrimspecialedition/mods/99774)
+* [Hunterborn Animations](https://www.nexusmods.com/skyrimspecialedition/mods/80677)
+* [Carry Your Carcasses - Immersive Prices](https://www.nexusmods.com/skyrimspecialedition/mods/82584)
+* [Hunting in Skyrim Skinned Models for Hunterborn](https://www.nexusmods.com/skyrimspecialedition/mods/59744)
+* [Animal Fat to Lantern Oil](https://www.nexusmods.com/skyrimspecialedition/mods/8059)
+* [iHUD and True HUD Patch](https://www.nexusmods.com/skyrimspecialedition/mods/66476)
+* [IHud Smooth Cam Patch](https://www.nexusmods.com/skyrimspecialedition/mods/45433)
     
 **Updated**  
 
