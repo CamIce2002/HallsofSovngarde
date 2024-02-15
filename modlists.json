@@ -24,21 +24,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/camice2002/HallsofSovngarde/main/HOS%20(1).png",
       "readme": "https://www.modlists.net/06HOS/2-Install/",
-      "download": "https://authored-files.wabbajack.org/Halls of Sovngarde.wabbajack_e5f9f607-78e4-4f5f-b652-dee42c7a03e2",
+      "download": "https://authored-files.wabbajack.org/Halls of Sovngarde.wabbajack_e4c42218-3d0a-4ea0-8470-a2036cb1b3fb",
       "machineURL": "HoS",
       "discordURL": "https://discord.gg/43EhRjU"
     },
     "download_metadata": {
-      "Hash": "jwSe+3srko4=",
-      "Size": 121378130,
-      "NumberOfArchives": 1765,
-      "SizeOfArchives": 93082342942,
-      "NumberOfInstalledFiles": 145168,
-      "SizeOfInstalledFiles": 133642697751
+      "Hash": "zqK3Q9Z+SCc=",
+      "Size": 123046298,
+      "NumberOfArchives": 1855,
+      "SizeOfArchives": 95787996945,
+      "NumberOfInstalledFiles": 130425,
+      "SizeOfInstalledFiles": 128412198944
     },
-    "version": "0.9.3.2",
+    "version": "0.9.3.3",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2024-01-21T10:47:09.8451837Z",
+    "dateUpdated": "2024-02-15T03:03:58.9642134Z",
     "repositoryName": ""
   }
 ]
