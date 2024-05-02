@@ -7,8 +7,9 @@
       "github/CamIce2002"
     ],
     "game": "skyrimspecialedition",
-    "official": false,
+    "official": true,
     "tags": [
+      "Official",
       "Requiem",
       "Survival",
       "Overhaul",
