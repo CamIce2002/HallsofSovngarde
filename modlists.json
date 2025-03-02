@@ -64,21 +64,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/CamIce2002/YearoftheBlight/main/YOTB.png",
       "readme": "https://www.modlists.net/docs/8yotb/Install",
-      "download": "https://authored-files.wabbajack.org/Year of the Blight.wabbajack_b8b163c8-a477-43b5-89f3-81e87db32bed",
+      "download": "https://authored-files.wabbajack.org/Year of the Blight.wabbajack_88318d38-fc4d-4436-a797-d3aca098995d",
       "machineURL": "YotB",
       "discordURL": "https://discord.gg/43EhRjU"
     },
     "download_metadata": {
-      "Hash": "saHYElZdiGo=",
-      "Size": 4908885,
-      "NumberOfArchives": 73,
+      "Hash": "Hs0ypuVIKQI=",
+      "Size": 4908753,
+      "NumberOfArchives": 72,
       "SizeOfArchives": 2991604256,
       "NumberOfInstalledFiles": 8926,
-      "SizeOfInstalledFiles": 6192762808
+      "SizeOfInstalledFiles": 6192762737
     },
-    "version": "1.0.1",
+    "version": "1.0.2",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-01-01T21:47:57.4458554Z",
+    "dateUpdated": "2025-03-02T16:08:07.1927227Z",
     "repositoryName": ""
   }
 ]
