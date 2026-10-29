@@ -24,21 +24,24 @@
     "links": {
       "image": "https://raw.githubusercontent.com/camice2002/HallsofSovngarde/main/HOS%20(1).png",
       "readme": "https://www.modlists.net/docs/4hos/Install",
-      "download": "https://authored-files.wabbajack.org/Halls of Sovngarde.wabbajack_02943789-6027-4674-a069-251d9551cd20",
+      "download": "https://authored-files.wabbajack.org/Halls of Sovngarde.wabbajack_fea70e2c-46b8-41a3-b887-6673b2112a53",
       "machineURL": "HoS",
-      "discordURL": "https://discord.gg/43EhRjU"
+      "discordURL": "https://discord.gg/43EhRjU",
+      "websiteURL": "",
+      "nexusCollection": null
     },
     "download_metadata": {
-      "Hash": "ejVEAhUPlNo=",
-      "Size": 202294136,
-      "NumberOfArchives": 2227,
-      "SizeOfArchives": 111905751600,
-      "NumberOfInstalledFiles": 241763,
-      "SizeOfInstalledFiles": 169577601059
+      "Hash": "jKlR5VWZ8/o=",
+      "Size": 1729166830,
+      "NumberOfArchives": 2215,
+      "SizeOfArchives": 109684130383,
+      "NumberOfInstalledFiles": 326593,
+      "SizeOfInstalledFiles": 179813571346,
+      "TotalSize": 289497701729
     },
-    "version": "1.3.4",
+    "version": "1.4",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-02-22T16:17:16.6211238Z",
+    "dateUpdated": "2026-10-29T22:17:02.7306726Z",
     "repositoryName": ""
   },
   {
@@ -66,7 +69,9 @@
       "readme": "https://www.modlists.net/docs/8yotb/Install",
       "download": "https://authored-files.wabbajack.org/Year of the Blight.wabbajack_0c956e8b-ecab-46f2-ac7a-dbef285cf05e",
       "machineURL": "YotB",
-      "discordURL": "https://discord.gg/43EhRjU"
+      "discordURL": "https://discord.gg/43EhRjU",
+      "websiteURL": "",
+      "nexusCollection": null
     },
     "download_metadata": {
       "Hash": "K89Td0OYAXU=",
@@ -74,7 +79,8 @@
       "NumberOfArchives": 71,
       "SizeOfArchives": 2981929504,
       "NumberOfInstalledFiles": 8926,
-      "SizeOfInstalledFiles": 6192762737
+      "SizeOfInstalledFiles": 6192762737,
+      "TotalSize": 9174692241
     },
     "version": "1.0.3",
     "dateCreated": "1970-01-01T00:00:00Z",
